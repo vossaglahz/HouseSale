@@ -1,0 +1,44 @@
+.header {
+    background-image: linear-gradient(0.87deg, rgba(2, 55, 135, 0.9) 0.69%, rgba(81, 38, 174, 0.4736) 100.48%, 
+    rgba(38, 92, 174, 0.0102906) 100.49%,rgba(195, 195, 196, 0.00520833) 100.5%, #76A6EF 100.51%), url('../images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 865px;
+}
+.nav-box {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 42px;
+}
+
+.nav-item {
+    text-decoration: none;
+    margin-right: 42px;
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+    transition: all ease-in 0.3s;
+}
+.nav-item:hover {
+    color: #FFC839;
+}
+.promo-text {
+    max-width: 821px;
+    margin-top: 217px;
+}
+h1 {
+    color: white;
+    font-size: 60px;
+    font-family: Nunito;
+    font-weight: 700;
+    word-wrap: break-word
+}
+h2 {
+    color: white;
+    font-size: 29px;
+    font-family: Nunito;
+    font-weight: 400;
+    word-wrap: break-word
+}

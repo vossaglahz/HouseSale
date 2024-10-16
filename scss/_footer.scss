@@ -1,0 +1,86 @@
+.footer {
+    background: #093A7A;
+}
+.footer-nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 45px;
+    border-bottom: rgba(255, 255, 255, 0.16) 1px solid;
+    padding-bottom: 24px;
+    margin-bottom: 34px;
+}
+.footer-nav-items {
+    color: #CACACA;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+    text-decoration: none;
+    transition: all ease-in 0.3s;
+}
+.footer-nav-items:hover {
+    color: #FFC839;
+}
+.branch-label {
+    color: white;
+    font-size: 24px;
+    font-family: Nunito;
+    font-weight: 600;
+    word-wrap: break-word;
+    text-decoration: none;
+    transition: all ease-in 0.3s;
+}
+.branch-label:hover {
+    color: #FFC839;
+}
+.branch {
+    margin-top: 34px;
+}
+.branch-items {
+    margin-top: 37px;
+}
+.branch-country {
+    color: #E5E5E5;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+    text-decoration: none;
+    transition: all ease-in 0.3s;
+}
+.branch-country:hover {
+    color: #FFC839;
+}
+.branch-cities {
+    display: flex;
+    margin-top: 17px;
+}
+.branch-cities-item {
+    color: #CACACA;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+    text-decoration: none;
+    margin-right: 35px;
+    transition: all ease-in 0.3s;
+}
+.branch-cities-item:hover {
+    color: #FFC839;
+}
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 36px;
+    border-top: rgba(255, 255, 255, 0.16) 1px solid;
+    margin-top: 40px;
+    padding-bottom: 175px;
+}
+.footer-info-text {
+    color: #CACACA;
+    font-size: 11px;
+    font-family: Roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+}
